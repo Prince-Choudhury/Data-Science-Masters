@@ -1,4 +1,4 @@
-fine name - course_details.py
+file name - course_details.py
 
 import os, sys
 from os.path import dirname, join, abspath
